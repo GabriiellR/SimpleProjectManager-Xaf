@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|c:\\users\\gabriel dias\\desktop\\simpleprojectmanager\\simpleprojectmanager.module\\simpleprojectmanager.module.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|solutionrelative:simpleprojectmanager.module\\simpleprojectmanager.module.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|c:\\users\\gabriel dias\\desktop\\simpleprojectmanager\\simpleprojectmanager.module\\businessobjects\\projetcttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|solutionrelative:simpleprojectmanager.module\\businessobjects\\projetcttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|c:\\users\\gabriel dias\\desktop\\simpleprojectmanager\\simpleprojectmanager.module\\businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|solutionrelative:simpleprojectmanager.module\\businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BEE74A-D514-4B8E-9281-5E758B6230DE}|SimpleProjectManager.Blazor.Server\\SimpleProjectManager.Blazor.Server.csproj|c:\\users\\gabriel dias\\desktop\\simpleprojectmanager\\simpleprojectmanager.blazor.server\\simpleprojectmanager.blazor.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B7BEE74A-D514-4B8E-9281-5E758B6230DE}|SimpleProjectManager.Blazor.Server\\SimpleProjectManager.Blazor.Server.csproj|solutionrelative:simpleprojectmanager.blazor.server\\simpleprojectmanager.blazor.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|c:\\users\\gabriel dias\\desktop\\simpleprojectmanager\\simpleprojectmanager.module\\controllers\\projecttaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|solutionrelative:simpleprojectmanager.module\\controllers\\projecttaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|c:\\users\\gabriel dias\\desktop\\simpleprojectmanager\\simpleprojectmanager.module\\model.designeddiffs.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}",
+      "RelativeMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|solutionrelative:simpleprojectmanager.module\\model.designeddiffs.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|c:\\users\\gabriel dias\\desktop\\simpleprojectmanager\\simpleprojectmanager.module\\businessobjects\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|solutionrelative:simpleprojectmanager.module\\businessobjects\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|c:\\users\\gabriel dias\\desktop\\simpleprojectmanager\\simpleprojectmanager.module\\businessobjects\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|solutionrelative:simpleprojectmanager.module\\businessobjects\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BEE74A-D514-4B8E-9281-5E758B6230DE}|SimpleProjectManager.Blazor.Server\\SimpleProjectManager.Blazor.Server.csproj|c:\\users\\gabriel dias\\desktop\\simpleprojectmanager\\simpleprojectmanager.blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7BEE74A-D514-4B8E-9281-5E758B6230DE}|SimpleProjectManager.Blazor.Server\\SimpleProjectManager.Blazor.Server.csproj|solutionrelative:simpleprojectmanager.blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|c:\\users\\gabriel dias\\desktop\\simpleprojectmanager\\simpleprojectmanager.module\\databaseupdate\\updater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|solutionrelative:simpleprojectmanager.module\\databaseupdate\\updater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|c:\\users\\gabriel dias\\desktop\\simpleprojectmanager\\simpleprojectmanager.module\\businessobjects\\simpleprojectmanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|solutionrelative:simpleprojectmanager.module\\businessobjects\\simpleprojectmanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|c:\\users\\gabriel dias\\desktop\\simpleprojectmanager\\simpleprojectmanager.module\\businessobjects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|solutionrelative:simpleprojectmanager.module\\businessobjects\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|c:\\users\\gabriel dias\\desktop\\simpleprojectmanager\\simpleprojectmanager.module\\migrations\\20241119021437_primeiramigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5E5A27-53D9-40E4-8C9A-E659226FC5D6}|SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj|solutionrelative:simpleprojectmanager.module\\migrations\\20241119021437_primeiramigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\BusinessObjects\\Customer.cs",
+              "RelativeDocumentMoniker": "SimpleProjectManager.Module\\BusinessObjects\\Customer.cs",
+              "ToolTip": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\BusinessObjects\\Customer.cs",
+              "RelativeToolTip": "SimpleProjectManager.Module\\BusinessObjects\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:37:18.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleProjectManager.Blazor.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Blazor.Server\\SimpleProjectManager.Blazor.Server.csproj",
+              "RelativeDocumentMoniker": "SimpleProjectManager.Blazor.Server\\SimpleProjectManager.Blazor.Server.csproj",
+              "ToolTip": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Blazor.Server\\SimpleProjectManager.Blazor.Server.csproj",
+              "RelativeToolTip": "SimpleProjectManager.Blazor.Server\\SimpleProjectManager.Blazor.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T01:33:51.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleProjectManager.Module.csproj",
+              "DocumentMoniker": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj",
+              "RelativeDocumentMoniker": "SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj",
+              "ToolTip": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj",
+              "RelativeToolTip": "SimpleProjectManager.Module\\SimpleProjectManager.Module.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T01:33:51.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjetctTask.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\BusinessObjects\\ProjetctTask.cs",
+              "RelativeDocumentMoniker": "SimpleProjectManager.Module\\BusinessObjects\\ProjetctTask.cs",
+              "ToolTip": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\BusinessObjects\\ProjetctTask.cs*",
+              "RelativeToolTip": "SimpleProjectManager.Module\\BusinessObjects\\ProjetctTask.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:37:58.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectTaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\Controllers\\ProjectTaskController.cs",
+              "RelativeDocumentMoniker": "SimpleProjectManager.Module\\Controllers\\ProjectTaskController.cs",
+              "ToolTip": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\Controllers\\ProjectTaskController.cs",
+              "RelativeToolTip": "SimpleProjectManager.Module\\Controllers\\ProjectTaskController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:12:25.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model.DesignedDiffs.xafml",
+              "DocumentMoniker": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\Model.DesignedDiffs.xafml",
+              "RelativeDocumentMoniker": "SimpleProjectManager.Module\\Model.DesignedDiffs.xafml",
+              "ToolTip": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\Model.DesignedDiffs.xafml",
+              "RelativeToolTip": "SimpleProjectManager.Module\\Model.DesignedDiffs.xafml",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALTSURBVDhPpZNbSFRRFIb/fS6eOaM52jgy1lhqmdpINyIogih7qB566KGCxMaXQrAeeqoIKhGCgkCQoh6KwoKaqMxCNIioTBCyi6Y1FU05jtNlbI7j3M5tt0eHwOqpPticzd5r/XutxX/wX1BKM7t/h2S\u002BM6B0RzHik9ughT0gYgiS4wwkvosQr5oJ\u002BcUMAXpxb4mxXtlKXL4DnKbOh84q5NkFxyMeyHl4n3Me/VFqvKon7ZHpDCZAWzZJyMqtQVypx2R0rW5L2M0VSVFcIoDMIkh9A4YGVDzTVYSXWie4HOljnlBwRSQWb73c7if09IbHiEXXwtCZHAeYbMGEVjCOH9UC7o/H4V8ugBbL4DUDVKNIT06WrQHZnN1KAo2LaZEzG5yQrtWEHlUwPGbiibwOI2vqEJk9iFnl55DnGIMo57JHRPACRWgwhQFvvJ/07qo07VaOOAstCCopPDLdeOneg4nSmnSL4A22zE\u002BQbedhX9gBSU7C16Vi6G4CZop/QPo81TFeT1nVRAw3XB6EtjRBtvAgiamCpkh3li47EW6DHjsIX2cKECkKC5xXOSJZA4auQ\u002BA5xFUNYd8wzHEFosiGL7A4K9PRo3jffRVv73UjFeXBZQGGqWKuY947zlZWsYfLznsDU4MtGUZyPIixwV4oo37Wq8kEn6P/UhM\u002B99xhM5iEoWnQVQNlrsq2Mlf52SkfDJ/YXWL4X5y5FS3d/KCyARJT5wQJekLBSF8HqK6BmlY43CHkz3k\u002BkRNZdFxf5Wjxbvcav4w0dqo2\u002B7ZaVXtdXXaWpwaxWKyIjLxmFfSB8AIzpobV6wo7F1QFDzXXXX\u002BZSfvTynWtT/d\u002B//7tpMFJuYmvH/BlqIedEjjy829t2rhy35EGz\u002Bh05DRp18zgcuOac\u002B5ix1Y5ixtKplQQAs1dseBwUbV95\u002B/Jaf76M6XZf6G3PPjB18wrH29eaz12LXP8G8BPoRwphdwLay4AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-21T00:02:19.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Blazor.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "SimpleProjectManager.Blazor.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Blazor.Server\\appsettings.json",
+              "RelativeToolTip": "SimpleProjectManager.Blazor.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T14:18:08.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Testimonial.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\BusinessObjects\\Testimonial.cs",
+              "RelativeDocumentMoniker": "SimpleProjectManager.Module\\BusinessObjects\\Testimonial.cs",
+              "ToolTip": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\BusinessObjects\\Testimonial.cs",
+              "RelativeToolTip": "SimpleProjectManager.Module\\BusinessObjects\\Testimonial.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:37:31.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\BusinessObjects\\Employee.cs",
+              "RelativeDocumentMoniker": "SimpleProjectManager.Module\\BusinessObjects\\Employee.cs",
+              "ToolTip": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\BusinessObjects\\Employee.cs",
+              "RelativeToolTip": "SimpleProjectManager.Module\\BusinessObjects\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:38:14.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimpleProjectManagerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\BusinessObjects\\SimpleProjectManagerDbContext.cs",
+              "RelativeDocumentMoniker": "SimpleProjectManager.Module\\BusinessObjects\\SimpleProjectManagerDbContext.cs",
+              "ToolTip": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\BusinessObjects\\SimpleProjectManagerDbContext.cs",
+              "RelativeToolTip": "SimpleProjectManager.Module\\BusinessObjects\\SimpleProjectManagerDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:36:58.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Updater.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\DatabaseUpdate\\Updater.cs",
+              "RelativeDocumentMoniker": "SimpleProjectManager.Module\\DatabaseUpdate\\Updater.cs",
+              "ToolTip": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\DatabaseUpdate\\Updater.cs",
+              "RelativeToolTip": "SimpleProjectManager.Module\\DatabaseUpdate\\Updater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:08:17.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\BusinessObjects\\Project.cs",
+              "RelativeDocumentMoniker": "SimpleProjectManager.Module\\BusinessObjects\\Project.cs",
+              "ToolTip": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\BusinessObjects\\Project.cs",
+              "RelativeToolTip": "SimpleProjectManager.Module\\BusinessObjects\\Project.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:37:45.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241119021437_PrimeiraMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\Migrations\\20241119021437_PrimeiraMigration.cs",
+              "RelativeDocumentMoniker": "SimpleProjectManager.Module\\Migrations\\20241119021437_PrimeiraMigration.cs",
+              "ToolTip": "C:\\Users\\Gabriel Dias\\Desktop\\SimpleProjectManager\\SimpleProjectManager.Module\\Migrations\\20241119021437_PrimeiraMigration.cs",
+              "RelativeToolTip": "SimpleProjectManager.Module\\Migrations\\20241119021437_PrimeiraMigration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:14:37.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Gabriel Dias\Desktop\SimpleProjectManager\SimpleProjectManager.Module\bin\Debug\net8.0\SimpleProjectManager.Module.deps.json
+C:\Users\Gabriel Dias\Desktop\SimpleProjectManager\SimpleProjectManager.Module\bin\Debug\net8.0\SimpleProjectManager.Module.dll
+C:\Users\Gabriel Dias\Desktop\SimpleProjectManager\SimpleProjectManager.Module\bin\Debug\net8.0\SimpleProjectManager.Module.pdb
+C:\Users\Gabriel Dias\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net8.0\SimpleProjectManager.Module.csproj.AssemblyReference.cache
+C:\Users\Gabriel Dias\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net8.0\SimpleProjectManager.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Dias\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net8.0\SimpleProjectManager.Module.AssemblyInfoInputs.cache
+C:\Users\Gabriel Dias\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net8.0\SimpleProjectManager.Module.AssemblyInfo.cs
+C:\Users\Gabriel Dias\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net8.0\SimpleProjectManager.Module.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Dias\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net8.0\SimpleProjectManager.Module.dll
+C:\Users\Gabriel Dias\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net8.0\refint\SimpleProjectManager.Module.dll
+C:\Users\Gabriel Dias\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net8.0\SimpleProjectManager.Module.pdb
+C:\Users\Gabriel Dias\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net8.0\ref\SimpleProjectManager.Module.dll
+C:\Users\Gabriel Dias\Desktop\SimpleProjectManager\SimpleProjectManager.Module\bin\Debug\net8.0\SimpleProjectManager.Module.runtimeconfig.json
+C:\Users\Gabriel Dias\Desktop\SimpleProjectManager\SimpleProjectManager.Module\obj\Debug\net8.0\SimpleProjectManager.Module.genruntimeconfig.cache
